@@ -1,0 +1,34 @@
+
+
+body{
+    background-color: rgb(82, 28, 131);
+    border: 4px solid;
+   width: 50%;
+   margin: 0 auto;
+}
+
+.page{
+ background-color:#9729ef;;
+}
+
+.img-main > img{
+    margin: 0 auto;
+    display: flex;
+    width: 100%;
+    
+}
+
+.poem-container{
+
+    text-align: center;
+    padding: 20px;
+    font-size: 1.2rem;
+
+}
+
+.writer{
+   font-style: italic;
+    
+    text-align: right;
+    padding: 20px;
+}
